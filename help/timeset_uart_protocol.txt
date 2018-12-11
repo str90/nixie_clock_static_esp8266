@@ -1,0 +1,6 @@
+send to uart "timeset", then send csv string (no cr/nl) "year", "month", "day", "hour", "minute", "second"
+
+example:
+
+timeset
+2017, 12, 13, 19, 9, 47
